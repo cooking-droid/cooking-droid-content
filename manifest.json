@@ -1,5 +1,13 @@
 {
+  "gitel_version": "indev",
   "group": "cooking-droid",
   "tag": "cooking-droid",
-  "version": "indev"
+  "modules": [
+    {
+      "name": "prime",
+      "specs": {
+        "markup": "md5"
+      }
+    }
+  ]
 }
